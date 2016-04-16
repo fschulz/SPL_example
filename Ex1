@@ -1,0 +1,5 @@
+# Code  1
+dnorm(0)    # Density value of N(0,1)
+pnorm(0)	  # Cumulative density up to 0
+qnorm(0.5)	# Quantile for p = 0.5
+rnorm(2)	  # Vector with 2 random numbers
